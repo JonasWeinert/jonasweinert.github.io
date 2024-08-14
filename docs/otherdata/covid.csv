@@ -1,7 +1,7 @@
 iso_code,location,date,new_deaths_smoothed_per_million,population,hope_index_2,fvl7d,vaccination_rate,already_vaccinated,not_vaccinated,vaccination_days,death_days,vaccination_rate2,location2,year,month,day
-"OWID_WRL","World","2024-07-28",.01,7975105024,12.16396,151,0.0,70.6,7.49e+08,69427080,7.83e+09,70.61,"The World","2024","July","28"
+"OWID_WRL","World","2024-07-28",.01,7975105024,13.60128,151,0.0,70.6,7.49e+08,69427080,7.83e+09,70.61,"The World","2024","July","28"
 "OWID_AFR","Africa","2023-12-31",0,1426736614,4163.158,29039,0.0,38.9,5.86e+08,282691,161538,38.90,"Africa","2023","December","31"
-"OWID_ASI","Asia","2024-07-28",0,4721383370,19.29824,133,0.0,78.1,8.77e+07,9228205,15819780,78.14,"Asia","2024","July","28"
+"OWID_ASI","Asia","2024-07-28",0,4721383370,114.0351,133,0.0,78.1,8.77e+07,9228205,15819780,78.14,"Asia","2024","July","28"
 "OWID_EUR","Europe","2024-07-28",.04,744807803,.4099653,18,0.0,70.3,7.20e+07,56024840,1.78e+09,70.33,"Europe","2024","July","28"
 "OWID_NAM","North America","2024-04-25",.12,600323657,41.21333,3555,0.0,76.4,2.17e+07,85439,6407929,76.39,"North America","2024","April","25"
 "OWID_OCE","Oceania","2023-05-15",.55,45038860,1155.792,18,0.0,64.3,7070587,5499345,136698000,64.30,"Oceania","2023","May","15"
