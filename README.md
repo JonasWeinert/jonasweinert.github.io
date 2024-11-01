@@ -1,2 +1,3 @@
 ## My new onlineCV
 Coming shortly...
+Reach out via [Github](https://github.com/JonasWeinert) or [LinkedIn](https://www.linkedin.com/in/jweinert1997) in the meantime.
